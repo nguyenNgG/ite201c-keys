@@ -66,4 +66,4 @@ Q: Which of the following describe important aspects in the role of an ethical A
 ○ Keeping up with the latest developments and vulnerabilities.
 ○ Cleaning and sorting data, and auditing for bias.
 Writing new equations to express intelligence.
-Building and maintaining computational hardware."]}]
+Building and maintaining computational hardware.
