@@ -1,0 +1,70 @@
+Q: What does “ethics by design” mean?
+
+○ An approach in which ethics is considered from the initial design stage. 
+A creative design approach as the focus for ethics.
+A reference to one of the tenets of engineering activism.
+A reference to the framework set forth by IEEE’s Ethically Aligned Design.
+
+Q: Which of the following describes why explainability is important?
+
+○ It provides accountability and trust.
+It provides interpretations of a system’s actions.
+It is necessary so that internal stakeholders can understand how a system works.
+It enables you to explain a system for shareholder purposes.
+
+Q: Which of the following describes personhood?
+
+○ Personhood is often used to dictate how something is treated. 
+Personhood is the legal protection provided to AI systems.
+Personhood is a concept that applies to narrow AI.
+Personhood is an individual’s right to freedom. 
+
+Q: Which of the following describe how adopting ethical practices can be a strategic differentiator? (Select three.)
+
+○ It will support the development of strategic partnerships.
+○ It will encourage applicants to apply for your company.
+○ It will build customer trust.
+It will ensure you comply with regulations.
+It will reduce your business obligations toward customers and business partners.
+
+Q: Which of the following best describes beneficence?
+
+○ Beneficence is the promotion of well-being, not just for moral agents like humans, but of animals, the environment, and societies.
+Beneficence is a term coined by IBM that relates to their Green Horizons initiative in 2014.
+Beneficence is the promotion of efficient systems that perform rapidly and benefit companies.
+Beneficence is the promotion of well-being for moral agents like humans.
+
+Q: What is the difference between beneficence and non-maleficence?
+
+○ Beneficence refers to “do only good” and non-maleficence refers to “do no harm.”
+Non-maleficence refers only to malevolent artificial general intelligence (AGI), while beneficence can refer to any “good” emerging technology.
+Beneficence is a less important goal for the field of AI than non-maleficence.
+Beneficence and non-maleficence are quite similar and often interchangeable.
+
+Q: Which of the following are valid concerns regarding electronic personalities? (Select two.) 
+
+○ That they would create unfair advantages, as not everyone has access to the same rights.
+○ That they would absolve manufacturers of liability.
+That individuals would start applying for electronic personalities.
+That they will make it more difficult to access information.
+
+Q: Which of the following are ways to participate in engineering activism? (Select two.)\n 
+
+○ Follow a code of ethics.
+○ Engage with the public.
+Perform all tasks required of you.
+Follow ethics by design.
+
+Q: How can AI uphold justice?
+
+○ AI systems can be designed from the start to help promote fairness and minimize bias.
+The more AI-based products being used in the justice system, the more justice can be upheld.
+AI systems can replace human judges, who are often biased.
+AI can automate many of the clerical tasks involved in the justice system.
+
+Q: Which of the following are examples of how AI can limit human autonomy? (Select two.)
+
+○ Weapon systems can limit human autonomy as humans may not have decision-making capability or understand the decision making.
+○ AI systems might impact certain vulnerable groups such as the elderly and children differently than the rest of the population, which could limit those groups’ autonomy.
+AI systems can assist individuals with automated, repetitive, or dangerous tasks.
+AI systems can perform tasks that humans cannot, such as processing millions of data records in a matter of seconds.
