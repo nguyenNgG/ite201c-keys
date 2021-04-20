@@ -1,0 +1,70 @@
+Q: What causes bias?
+
+○ Biases are learned from our families, our social groups, and the media.
+Bias is caused by the media.
+Biases are caused by the opinions of our families.
+Bias is biological, we are born with it. 
+
+Q: What is the fundamental attribution error?
+
+○ When you say your bad behavior is caused by the situation, but when other people display the same bad behavior, it is caused by a personality trait.
+When you incorrectly assume a cause and effect relationship for two correlated variables.
+When you believe your ideas are normal and that the majority of people agree with you.
+When you believe your chances of experiencing something negative are lower and your chances of experiencing something positive are higher than others.
+
+Q: Which of the following are actions that can help combat implicit bias? (Select three.)
+
+○ Interacting with diverse groups of people.
+○ Exposing yourself to “counter-stereotypical” examples.
+○ Cultivating awareness of your own biases.
+Obtaining your information from the same one or two media sources that your family and friends access.
+Surrounding yourself with others who have similar experiences.
+
+Q: When conducting an opinion poll, which of the following biases do you need to guard against the most when collecting your data?
+
+○ Sampling bias
+Misclassification bias
+Modeling bias
+Correlation bias
+
+Q: Which of the following is an example of a cognitive bias?
+
+○ Anchoring bias
+Modeling bias
+Misclassification bias
+Correlation bias
+
+Q: Are criminal justice risk assessments race-neutral?
+
+○ No, the data is biased as it reflects historical bias.
+Yes, algorithms replace human judgement and they are unbiased.
+No, it is designed with intention to be unfair. 
+Yes, technology in itself is not racist.
+
+Q: Which type of bias causes people to trust an automated decision-making system (ADS) over a human’s decision?
+
+○ Automation bias
+Confirmation bias
+Complacency bias
+Implicit bias
+
+Q: How can confirmation bias impact us socially? (Select two.)
+
+○ It can lead to groupthink, which can in turn halt forward progress.
+○ It can impede socio-political cooperation.
+It can lead to a diverse set of friends.
+It can prevent us from being social with other people.
+
+Q: Which of the following describes an illusory-correlation bias?
+
+○ When you incorrectly assume a cause and effect relationship because two variables are correlated.
+When you incorrectly assume a correlation because there is an illusory confounding variable.
+When you correlate a variable with a confounding variable.
+When you correlate variables that do not exist in your data set.
+
+Q: Which of the following is one explanation for why cognitive biases exist?
+
+○ We receive too much information and are overloaded. 
+We use them to help remember things.
+They help us think logically instead of emotionally.
+They are taught to us in school.
