@@ -1,0 +1,69 @@
+Q: Which of the following is a formative ethics theory that states that maximizing happiness is the primary standard for determining what is right or wrong?
+
+○ Utilitarianism
+Deontology
+Virtue ethics
+Categorical imperative
+
+Q: Which of the following statements are promoted by the categorical imperative? (Select three.)
+
+○ Don’t treat people as a means to an end; treat them always as an end.
+○ Act in such a way that your actions may become a universal law.
+○ Each person must use reason to will moral laws.
+You have a moral duty to choose your actions based on their potential outcomes. 
+
+Q: Which of the following statements accurately describes the philosophical concept of predeterminism?
+
+○ All events, past, present, and future, are determined in advance.
+All future events are determined by preceding events, as in a chain, but human beings may still be able to interfere with this chain of events.
+Human beings are able to make choices whose outcomes are not already determined.
+All events are predestined to happen by a supernatural force.
+
+Q: How do norms differ from morals?
+
+○ Morals involve value judgments; norms do not.
+Morals are collective; norms are more personal.
+Norms are universal to all cultures; morals are not.
+Norms form the basis for morals.
+
+Q: Which of the following are consequences of saying that someone or something has moral agency? (Select two.)
+
+○ The moral agent is capable of determining right and wrong.
+○ The moral agent can be held responsible for their actions.
+The moral agent acts in a morally correct manner.
+The moral agent follows a deontological code of ethics.
+
+Q: Why is deciding how to act using moral reasoning not always a feasible goal for human beings?
+
+○ Human decision making is often influenced by emotion and not logic.
+Moral reasoning is too complicated to apply to a real-world situation.
+Most people are not educated on normative ethical theories and therefore cannot perform true moral reasoning.
+Moral reasoning has few tangible benefits for most people.
+
+Q: Which of the following statements are true regarding the purpose of moral psychology? (Select two.)
+
+○ Moral psychology seeks to understand why people act morally or immorally.
+○ Moral psychology seeks to understand how the human mind develops morality.
+Moral psychology seeks to understand what the best way to act morally is.
+Moral psychology seeks to understand the nature of what it means to be moral.
+
+Q: Which of the following is an example of applied ethics?
+
+○ Professional ethics
+Virtue ethics
+Pluralism
+Moral relativism
+
+Q: Your organization has developed an AI system that recommends treatments for hospital patients. Some questions have been raised about the ethics of how these treatments are determined. What applied ethics domain do these concerns fall under?
+
+○ Bioethics
+Business ethics
+Engineering ethics
+Environmental ethics
+
+Q: What does it mean to say that human rights are inalienable? (Select two.)
+
+○ Inalienable rights are inherent in all human beings.
+○ Inalienable rights cannot be taken away except in extreme circumstances.
+Inalienable rights are derived from tradition.
+Inalienable rights are conditional.
