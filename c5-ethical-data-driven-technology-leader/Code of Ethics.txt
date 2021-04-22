@@ -43,24 +43,24 @@ Subjective language
 
 Q: Which of the following is a problematic reason to pilot a code of ethics prior to widespread deployment?
 
-○ The pilot phase helps to identify gaps in the current code of ethics. 
-The pilot phase demonstrates the seriousness of the organization with respect to its ethical responsibilities. 
+○ The pilot phase demonstrates the seriousness of the organization with respect to its ethical responsibilities. 
+The pilot phase helps to identify gaps in the current code of ethics. 
 The pilot phase helps to develop awareness and buy-in from the relevant stakeholders in the organization.
 The pilot phase helps to stress test a code of ethics in a real-world situation.
 
 Q: Which of the following is a reason to periodically update a code of ethics document? 
 
-○ It signals that you care about ethics to internal and external stakeholders. 
+○ It allows you to capture the evolving nature of the ethical risks of the product or service that you are developing. 
+It signals that you care about ethics to internal and external stakeholders. 
 It is a fiduciary and regulatory responsibility for the organization to do so. 
-It allows you to capture the evolving nature of the ethical risks of the product or service that you are developing. 
 It reinforces the presence of the code of ethics in the minds of the employees.
 
 Q: Which of the following will ensure that a code of ethics is widely adopted within the organization? 
 
-○ Including the code of ethics in the legal documents signed by the employees.
+○ Integrating the code of ethics deeply into the existing workflows within the organization.
+Including the code of ethics in the legal documents signed by the employees.
 Writing the code in legal language to ensure that it is compliant with the laws of the land.
 Making a public announcement with the creators of the code of ethics. 
-Integrating the code of ethics deeply into the existing workflows within the organization.
 
 Q: Which of the following are reasons to design, develop, and deploy a code of ethics within an organization? (Select two).
 
