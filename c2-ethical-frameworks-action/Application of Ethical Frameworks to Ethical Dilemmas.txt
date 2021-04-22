@@ -1,0 +1,69 @@
+Q: Why does the trolley problem pose an ethical predicament?
+
+○ You have to make a choice between two scenarios where choosing one leads to loss of life in the other.
+The moral responsibility is split between you and the person controlling the trolley.
+There are so many potential outcomes that it becomes difficult to choose one that is most ethical.
+You as the actor don’t have sufficient control over the circumstance.
+
+Q: Which of the following ethical considerations should have priority in an emergency situation like the use of contact-tracing solutions during a pandemic? (Select two.)
+
+○ Accountability
+○ Privacy
+Explainability
+Bias
+
+Q: In using AI-enabled solutions within the context of medical imaging analysis, which of the following is the most important ethical consideration?
+
+○ Explainability
+Bias
+Privacy
+Security
+
+Q: If an AI-enabled system enables addictive behavior, which of the following makes for the most compelling argument to stop development work on that system?
+
+○ The system, as designed, acts counter to the well-being of the users.
+The user will share more data with the system because of increased use.
+There is a lack of accountability on the part of the user since they overuse the service.
+The process for obtaining consent has not been made transparent to the user.
+
+Q: Why do smart toys raise additional ethical concerns over those that are raised in the course of other products and services that use AI?
+
+○ Children are more susceptible to manipulation and therefore need extra protective measures.
+They are used in the privacy of homes rather than in public settings, like other products or services.
+It is difficult to obtain informed consent for the use of the smart toy. 
+The smart toys store personal data on the device, which can be stolen. 
+
+Q: Which of the following software development principles is essential in the real-world deployment of AI-enabled software applications in critical scenarios like self-driving cars?
+
+○ Robustness to adversarial examples 
+Architectural design analysis 
+Version control of the AI models deployed 
+Continuous integration and deployment of patch updates
+
+Q: Which of the following is the most important argument in favor of content moderation in online platforms? 
+
+○ It prevents the spread of disinformation that can cause harm to vulnerable populations.
+It prevents the development of monopolies in terms of content creators. 
+It creates adequate incentives for everyone to share their opinions.
+It helps uphold freedom of expression for everyone and doesn’t give anyone special rights.
+
+Q: Why is the question of robot rights and emancipation one that isn’t as important as addressing issues of bias, privacy, transparency, and other principles discussed in the various ethical frameworks?
+
+○ These rights necessitate that robots become sentient entities, which is currently not feasible. 
+Humans are anthropocentric and don’t want to extend rights to other sentient entities.
+Robots are mechanical instruments and therefore don’t deserve to have rights. 
+There is no legal precedent for granting rights to entities that are not humans.
+
+Q: Which of the following is the most important ethical consideration regarding technical developments like deepfakes? 
+
+○ They usurp a person’s likeness and can then be weaponized against them.
+They violate data sharing agreements in many jurisdictions.
+They take away monetization opportunities, leaving individuals unfairly compensated for their data.
+They are built on technological progress made by a third-party organization.
+
+Q: Why are anonymization and pseudonymization insufficient protection measures against breaches of data privacy and security? 
+
+○ They can be broken by combining this data with other publicly available data. 
+They destroy the usefulness of the data.
+They don’t integrate well into data science and machine learning workflows.
+They only work in scenarios with particular kinds of personal information.

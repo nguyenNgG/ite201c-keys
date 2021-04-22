@@ -1,0 +1,69 @@
+Q: Which school of philosophical thought primarily advocates for the greatest good for the greatest amount of people?   
+
+○ Utilitarianism
+Virtue ethics
+Deontology
+Kantian ethics
+
+Q: Which type of entity are the OECD Principles on Artificial Intelligence mostly geared towards?
+
+○ National governments
+Private corporations
+Individuals
+Municipal governments
+
+Q: Which of the following principles are most commonly cited in AI-based ethical frameworks?
+
+○ Transparency and explainability
+Human control and autonomy
+Happiness and spiritual contentment
+Fairness and non-discrimination
+
+Q: Which of the following frameworks primarily promotes human rights?
+
+○ The Toronto Declaration
+The Asilomar AI Principles
+The Montreal Declaration
+The Beijing AI Principles
+
+Q: Which of the following best describes capability caution as referenced in the Asilomar AI Principles?
+
+○ Given a lack of consensus, we should avoid strong assumptions regarding upper limits on future AI capabilities.
+We should keep limits on on what artificial general intelligence (AGI) is capable of.
+Should there be a greater reliance on AI, measures should be taken to ensure that humans are still capable of finding work.
+If there is no understanding of the internal mechanisms of AI, then AI development should be halted.
+
+Q: Which of the following describes the principle of transparency in the context of AI systems?
+
+○ Transparency enables human observers to see inside the decision-making process of an AI system.
+Transparency enables human observers to tweak the decision-making process of an AI system.
+Transparency enables human observers to understand the decision-making process of an AI system.
+Transparency enables human observers to reproduce the decision-making process of an AI system.
+
+Q: Which of the following is a case study that best represents the principle of professional responsibility?
+
+○ The American Medical Association’s definition of AI as augmented intelligence
+The IEEE Ethically Aligned Design’s discussion on classical ethics
+The Beijing AI Principles’ tenets about the use of AI
+The Asilomar AI Principles’ definition of capability caution
+
+Q: If you are attempting to build a new framework for the research and development (R&D) of AI, which of the following frameworks might you look at first for its emphasis in this area?
+
+○ The Beijing AI Principles
+The American Medical Association’s definition of artificial intelligence
+The G20 AI Principles
+The Montreal Declaration for a Responsible Development of Artificial Intelligence
+
+Q: In AI, the principle of privacy is most commonly referred to in the context of which of the following concepts? 
+
+○ Data protection
+Transparency
+Human control
+Personal protection
+
+Q: Which of the following describes an ethical framework?
+
+○ Ethical frameworks seek to mitigate ethical concerns by creating actionable steps.
+Ethical frameworks raise timeless ethical questions that are not easily put into action.
+Ethical frameworks consolidate regulatory requirements for an industry.
+Ethical frameworks apply meta-ethical theories to everyday business operations.

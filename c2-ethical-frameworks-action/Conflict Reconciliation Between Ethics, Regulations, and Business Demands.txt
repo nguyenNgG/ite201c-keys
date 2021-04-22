@@ -1,0 +1,69 @@
+Q: Which of the following are important elements of the data minimization principle? (Select two.)
+
+○ Only keep data for as long as it is needed
+○ Only collect data that is strictly necessary
+Only compress data that needs to be kept as small as possible
+Only delete data that can be easily replaced
+
+Q: Which of the following are logical arguments in favor of an organization maintaining compliance? (Select two.)
+
+○ Avoidance of reputational damage
+○ Long-term cost savings due to avoiding fines
+Reduced costs of development
+Reduced time to deployment
+
+Q: How does increasing AI performance often conflict with the desire for explainability?
+
+○ Increasing AI performance sometimes leads to greater model complexity, making it more difficult to explain decision-making processes.
+Increasing AI performance sometimes reduces the transparency of input data used in training, making it more difficult to explain decision-making processes.
+Increasing AI performance sometimes removes human-in-the-loop (HITL) methods, making it more difficult to explain decision-making processes.
+Increasing AI performance sometimes leads to certain evaluation metrics no longer being useful, making it more difficult to explain decision-making processes.
+
+Q: Which of the following explains why efficiency can sometimes incur systemic fragility?
+
+○ Efficiency benefits may lead to complesecond-order costs
+High-efficiency machines often require more maintenance
+Increased efficiency tends to create cost savings
+Increased efficiency tends to compound over time
+
+Q: Which of the following are possible benefits of a human-in-the-loop (HITL) architecture? (Select two.)
+
+○ Balancing the negative effects of an AI system on people with the effects on environments and objects
+○ Mitigating excessive scope or potential collateral damage
+Eliminating the potential for human error in decision making
+Improving the speed of autonomous decision making
+
+Q: How does the “virtuous cycle” that benefits Big Tech operate?
+
+○ Data-driven algorithms improve solutions, leading to new customers, and better data.
+By acting virtuous, the public respects Big Tech more and more.
+Better classes of customers lead to richer and more refined data for algorithmic systems.
+Organizations write algorithms with fewer biases, which leads to fairer outcomes.
+
+Q: Which of the following is often in opposition to moral relativism?
+
+○ Evidence-based policy
+Customs and conventions
+Subjective perspectives
+Cultural mores
+
+Q: Which of the following are important aspects of resolving compleand confounding business pressures? (Select two.)
+
+○ Engaging with multiple stakeholders to understand their particular needs
+○ Managing expectations that not everyone can get what they want, when they want it
+Prioritizing ethical and safety concerns over business desires in all cases and situations
+Assuring everyone that their desires can be accommodated without compromise
+
+Q: You plan on streamlining your company’s product experience, but you also want to uphold the agency and autonomy of your users. Which of the following actions would uphold these principles? (Select two.)
+
+○ Refraining from guiding users into something they didn’t wish for or intend
+○ Respecting the right of the user to choose and customize their experiences
+Enabling government agencies to have a personalized interface with software
+Applying machine intelligence to simulate customer behavior
+
+Q: Which of the following describe corporate hegemony? (Select two.)
+
+○ Locking out smaller players, leading to monopolies or cartels
+○ Consolidating interests through mergers and acquisitions
+Making multiple investments in a similar space to improve the outcomes of success
+Spending large sums on corporate branding and marketing

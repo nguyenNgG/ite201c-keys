@@ -1,0 +1,69 @@
+Q: Which of the following are ways that regulations differ from ethical frameworks? (Select two.)
+
+○ Regulations provide a clear basis for potential litigation.
+○ Regulations have legal enforcement behind them.
+Regulations are flexible in their implementation.
+Regulations are often industry led.
+
+Q: Your business handles the personal data of California residents. Which of the following regulations would enable a resident to request that their data be deleted from your company’s files?
+
+○ CCPA
+PCI DSS
+OECD Privacy Guidelines
+COPPA
+
+Q: Which of the following does the Brazilian General Data Protection Act (LGPD) mandate? (Select two.)
+
+○ Data protection impact assessments
+○ Data protection officers
+Data protection audits
+Data protection analysts
+
+Q: Which of the following is a standard or regulation that focuses on ensuring the implementation of strong cybersecurity techniques like network security and cryptography to protect data?
+
+○ PCI DSS
+POPI
+PIPEDA
+FERPA
+
+Q: Which of the following are requirements set forth by the Biometric Information Privacy Act (BIPA)? (Select two.)
+
+○ Organizations must obtain consent from individuals regarding the collection and use of biometric data.
+○ Organizations must destroy biometric data in a timely fashion.
+Organizations must store biometric data in local, on-premises databases.
+Organizations must not transmit biometric data across an unsecured network like the Internet.
+
+Q: The Children’s Online Privacy Protection Act (COPPA) safeguards the privacy of which age group’s personal information? 
+
+○ Anyone under 13 years old
+Anyone between 13 and 18 years old
+Anyone between 5 and 13 years old
+Anyone under 18 years old
+
+Q: Which of the following are advantages to adopting standards frameworks like ISO 27000? (Select two.)
+
+○ International support, recognition, and involvement
+○ Formal certification processes that provide competitive advantage
+Technology-specific focus and precise implementation instructions
+Regulatory weight and legal enforcement
+
+Q: Which of the following is a notable aspect of the Personal Information Protection and Electronic Documents Act (PIPEDA) when compared to similar laws and regulations?
+
+○ A stipulation to continue providing service even if data usage is denied
+Its nationwide scope and specific national focus
+Its exclusive focus on a single domain rather than a breadth of domains
+The early date of its inauguration
+
+Q: Which of the following resources does the National Institute of Standards and Technology (NIST) provide to organizations?
+
+○ Reference materials
+Measurement technologies
+Security tools
+Industrial configurations
+
+Q: Which of the following ethical domains does the IEEE 7000 series explore? (Select two.)
+
+○ Emulated empathy
+○ Machine-readable privacy terms
+Personnel safety
+Fair competition
