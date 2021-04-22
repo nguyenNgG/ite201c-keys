@@ -1,0 +1,69 @@
+Q: Which of the following types of bias emerges when the same data is sampled over and over again, limiting a model’s perspective?
+
+○ Reinforcement bias
+Confirmation bias
+Temporal bias
+Implicit bias
+
+Q: Why is a model that has been overfitted to its training data a source of fairness risk?
+
+○ Because the model won’t generalize to the entire population.
+Because the model has a temporal bias.
+Because the model is too complex.
+Because the model includes too much noise.
+
+Q: Which type of edge case is caused by data outside the normal distribution?
+
+○ Outliers
+Overfitting
+Noise
+Errors
+
+Q: Which of the following is a function of exploratory data analysis (EDA)?
+
+○ To evaluate the quality of data before it is used to train a model.
+To evaluate the decisions made by the model after training on the data.
+To evaluate the organization’s project management structure for the AI project.
+To evaluate the methods used to collect the data.
+
+Q: How can persona modeling be used to identify potential biases in a machine learning model?
+
+○ The persona may represent groups of people that could be susceptible to bias.
+The persona may reveal overfitting issues in a model that result from bias.
+The persona may identify noise and other edge cases that lead to bias.
+The persona may show that specific users are a source of bias.
+
+Q: In a classification model that determines whether or not a customer qualifies for a coupon, a significantly lower percentage of males qualified than females. Which of the following types of discrimination does this outcome potentially represent?
+
+○ Disparate impact
+Disparate mistreatment
+Disparate non-impact
+Disparate treatment
+
+Q: Which of the following describes the purpose of a STEEPV analysis?
+
+○ To perform a strategic analysis of how external environments impact business operations.
+To perform a strategic analysis of how internal office politics impact business operations.
+To perform a strategic analysis of user needs and behaviors.
+To perform a strategic analysis of how bias can manifest in AI products.
+
+Q: Which of the following are best practices for incorporating inclusive design in AI projects? (Select two.)
+
+○ Leverage customer input to reduce bias.
+○ Consider bias a spectrum.
+Keep machines and humans separate.
+Solve for many, extend to one.
+
+Q: Which of the following describes the AI Fairness 360 project?
+
+○ An open source library that evaluates models for bias and provides mitigation tactics to reduce that bias.
+A global initiative that promotes fairness in AI through seminars, conferences, and other community-driven activities.
+An AI product that represents a completely fair model for AI practitioners to use as a benchmark.
+A checklist for machine learning practitioners to follow when training fair AI models.
+
+Q: What is the primary advantage of radioactive data tracing over past techniques that modify input in order to determine whether or not that input was used in training?
+
+○ Radioactive data tracing doesn’t impact a model’s performance.
+Radioactive data tracing can be used to modify the label.
+Radioactive data tracing targets language-based input.
+Radioactive data tracing makes the modification perceptible to human beings.

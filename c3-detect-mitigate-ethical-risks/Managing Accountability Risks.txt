@@ -1,0 +1,69 @@
+Q: What does the acronym RACI stand for?
+
+○ Responsible, Accountable, Consulted, Informed
+Responsible, Accessible, Consulted, Improvised
+Relatable, Agreeable, Commendable, Irascible
+Redesignable, Accessible, Collected, Informative
+
+Q: Which of the following describes extrajudicial judgment?
+
+○ A ruling or scoring made outside of a court.
+Applying law from one jurisdiction within another.
+Transferring defendants from one jurisdiction to another for trial.
+Unusual interpretation of law outside of its typical meaning.
+
+Q: Which of the following elements might be considered moderately affected in an Impact Level 2 Algorithmic Impact Assessment? (Select two.)
+
+○ The rights of individuals or communities.
+○ The health and well-being of individuals or communities.
+A loss of life resulting from specific circumstances.
+A brief delay in the conveyance of a commercial transaction.
+
+Q: Which of the following describes automation bias?
+
+○ Bias of people towards overly trusting in automation.
+Bias against automation by people worried about their jobs.
+Bias that is subconscious, committed during a state of automata.
+Bias enabled or perpetuated by machine learning.
+
+Q: Which of the following are likely benefits of having defined organizational policies? (Select two.)
+
+○ It supports consistency of behavior and unification of culture.
+○ It supports accountability and makes it more explicit.
+It supports improved sales and marketing results.
+It supports profitable research innovations and intellectual property.
+
+Q: How might a non-stochastic decision tree be considered a black box algorithm?
+
+○ If the model is far too complex to be readily understood by human beings.
+If the algorithm is contained within an embedded system.
+If the model is expressed in an annotated visual form.
+If the algorithm serves as part of a data recorder.
+
+Q: Which of the following are potential ethical benefits of conducting pilot testing prior to the release of emerging technologies? (Select two.)
+
+○ It minimizes the impact of any ethical issues which may emerge.
+○ It reveals any gaps in accountability or auditability.
+It demonstrates that the system is functional as early as possible in order to satisfy senior management and investor stakeholders.
+It certifies that a product’s developers are legally accountable.
+
+Q: Which of the following are important steps to document during an auditing process? (Select two.)
+
+○ Document the audit procedures to be followed.
+○ Specify and document what precisely is being audited.
+Specify a purpose for the audit or an agenda to be covered.
+Provide significant advance notice before an audit.
+
+Q: Which of the following are common key performance indicators (KPIs) within dashboards of data-driven systems? (Select two.)
+
+○ Model training time
+○ Performance metrics, such as accuracy and cost functions
+Earnings before interest, taxes, depreciation, and amortization (EBITDA)
+Operating cashflow forecast
+
+Q: Which of the following are likely examples of a leverageable third party data-driven or data-related product? (Select two.)
+
+○ Compiled models
+○ Data annotation and augmentation tools
+Management oversight
+Product design lifecycle

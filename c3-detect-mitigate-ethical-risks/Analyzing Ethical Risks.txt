@@ -1,0 +1,70 @@
+Q: Which of the following are tasks in the overall risk management process? (Select three.)
+
+○ Mitigation
+○ Analysis
+○ Identification
+Deployment
+Elimination
+
+Q: Which of the following risk analysis methods use words like “likely,” “unlikely,” and “rare” to describe the likelihood of risk, and words like “low,” “medium,” and “high” to describe the impact of risk? (Select two.)
+
+○ Semi-quantitative analysis
+○ Qualitative analysis
+Semi-qualitative analysis
+Quantitative analysis
+
+Q: Which of the following is not a valid risk response technique?
+
+○ Ignore
+Accept
+Transfer
+Avoid
+
+Q: Which of the following statements are correct about a variable that is normally distributed? (Select two.)
+
+○ The mean, median, and mode of all measurements is the same, and all are located at the center of the distribution.
+○ The variable’s distribution, when graphed, exhibits a symmetrical bell shape.
+Less than half of all measurements fall within one standard deviation of the mean.
+The tails of a normal distribution are denser than the center.
+
+Q: Which of the following statements accurately describes variance?
+
+○ Variance measures how far a data example is from the mean.
+Variance measures the shape of the tails in a distribution relative to the center.
+Variance measures the error between predicted values and actual values.
+Variance measures how much a variable’s distribution differs from a normal distribution.
+
+Q: In the following scatter plot, the GrossIncome variable is plotted against the Revenue variable. What type of correlation does this plot suggest?
+
+○ There is a strong positive correlation between both variables.
+There is a strong negative correlation between both variables.
+There is a weak positive correlation between both variables.
+There is a weak negative correlation between both variables.
+
+Q: How do AI and other data-driven technologies use probability?
+
+○ By providing a model of belief about the likelihood of some event happening
+By guaranteeing that some event will occur with 100% likelihood
+By determining the objective likelihood of some event happening
+By estimating the likelihood of some event happening without input data
+
+Q: You have a dataset of customers that includes each customer’s gender, location, and other personal attributes. The label you are trying to predict is how much sales revenue each customer is likely to generate for the business based on these attributes. What type of machine learning outcome is this problem suited for?
+
+○ Regression
+Clustering
+Dimensionality reduction
+Classification
+
+Q: You’re training a model to classify whether or not a bridge is likely to collapse given several factors. You have a dataset of thousands of existing bridges and their attributes, where each bridge is labeled as having collapsed or not collapsed. Only a handful of bridges in the dataset are labeled as having collapsed—the rest are labeled as not collapsed. Given your goal of minimizing bridge collapse and the severe harm it can cause, which of the following metrics would be most useful for evaluating the model?
+
+○ Recall
+Precision
+Accuracy
+Confusion matrix
+
+Q: Which of the following metrics is used to evaluate a linear regression machine learning model?
+
+○ Cost function
+Receiver operating characteristic (ROC)
+Goodhart’s Law
+Accuracy

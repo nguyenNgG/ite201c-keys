@@ -1,0 +1,69 @@
+Q: What does the acronym SIEM stand for in a cybersecurity context?
+
+○ Security information and event management
+Selective information extrapolation methods 
+Social, interpersonal, empathic, mental
+Serial input to externalized modulation
+
+Q: Which of the following sources does a SIEM system typically pull data from? (Select two.)
+
+○ System event logs
+○ Network intrusion detection alerts
+Encrypted personal data
+Personnel emails
+
+Q: Which of the following are likely to be found within a penetration test rules of engagement (ROE)? (Select two.)
+
+○ What methods of attack are legitimate
+○ What systems may be targeted
+The appropriate length and complexity of employee passwords
+How long CCTV camera recordings should be maintained
+
+Q: Which team typically oversees penetration test operations and adherence to the rules of engagement (ROE)?
+
+○ White team
+Red team
+Blue team
+Purple team
+
+Q: Which of the following benefits can be gained from establishing baseline system behaviors? (Select two.)
+
+○ Restoring compromised functionality through a system rollback
+○ Tracking deviance from norms
+Optimizing costs of operation
+Holding employees more accountable
+
+Q: Which of the following could Nmap, Wireshark, or Metasploit be applied to for ethical purposes?
+
+○ Attack simulations
+Persona modeling
+Criminal exploitation
+Business continuity planning
+
+Q: What does the initialism CIA stand for in a data security context?
+
+○ Confidentiality, integrity, availability
+Compliance, integrity, accountability
+Communicability, interpretation, accessibility
+Conformity, influence, adaptation
+
+Q: SSL, TLS, and SSH are all forms of...
+
+○ Encryption protocols
+Computer forensics tools
+Version control systems
+Media codecs
+
+Q: What does the acronym CSIRT stand for in a security context?
+
+○ Cybersecurity incident response team
+Computer science, Internet, real-time interaction, technology
+Computer security immediate readiness tools
+Conformance strategy, immutability, reliability, trustworthiness
+
+Q: In which of the following could STRIDE or VAST classifications be applied?
+
+○ Threat modeling or analysis tools
+Bias mitigation techniques
+Black box mitigation methods
+Network optimization tools

@@ -1,0 +1,69 @@
+Q: Which of the following is an explainability risk of self-learning models?
+
+○ Self-learning models may introduce new data you’re unaware of.
+Self-learning models are unable to generate decisions as output.
+Self-learning models can corrupt data or otherwise make it unreadable.
+Self-learning models are black boxes whose decisions cannot be understood.
+
+Q: Which of the following is a transparency risk of closed source software?
+
+○ Closed source software may not be accessible to independent auditors.
+Closed source software includes obfuscated code that cannot be read by a human.
+Closed source software cannot be shared with business partners. 
+Closed source software cannot be reviewed by the organization that developed it.
+
+Q: A disruptive user on a social media site is subjected to a shadow ban. Which of the following might be an indication of that shadow ban?
+
+○ A user logs in one day to find that they are able to post, but receive no direct responses.
+A user logs in one day to find a message from a site administrator saying that the user has been banned.
+A user logs in one day to find that their posting privileges have been revoked.
+A user logs in one day to find that they have been asked to discontinue their disruptive behavior, or they will be banned.
+
+Q: Which of the following is an effort to turn black box AI models into models whose decisions are easier to understand?
+
+○ Explainable AI
+Neural networks
+Self-learning models
+Human-in-the-loop
+
+Q: You want to solicit feedback from users who are seeking explanations about your AI products and services. So, you decide to place a form on your marketing website that users can fill out. Which of the following is the best way to structure that form for the purpose of collecting useful feedback?
+
+○ Provide a large, unrestricted text box where users can enter their thoughts at length.
+Provide a series of open questions with a single-line entry field where users can provide short .
+Provide a drop-down menu of feedback categories that users can select from, with a promise that you’ll follow up via email.
+Provide a series of yes or no questions with radio buttons where users select their respective .
+
+Q: You’re the recipient of some data collected by a third party that you’ll use in training an AI model. As per your business agreement, the third-party discloser of the data requests that you explain how you plan to use the data. At what point in the process should you provide this explanation?
+
+○ At the point of collecting the data.
+At the point of evaluating the model.
+At the point of planning the AI system.
+At the point of training the model.
+
+Q: Which of the following are potential training data inadequacies that you should communicate to your users in support of transparency? (Select two.)
+
+○ Any known bias in the sample data.
+○ Any missing values in the dataset and how they were handled.
+The amount of time it took to collect the data.
+The relatively large size of a dataset used in training.
+
+Q: Which of the following is a technique used by the Python tool Alibi to produce a subset of features that will usually result in the same model prediction?
+
+○ Anchor Explanations
+Local Interpretable Model-Agnostic Explanations
+Shapley value
+Perturbation
+
+Q: Which of the following Python tools is designed to integrate with Google’s Cloud AI platform?
+
+○ What-If
+ELI5
+LIME
+SHAP
+
+Q: Which of the following are typically true when comparing the LIME tool with the SHAP tool? (Select two.)
+
+○ LIME is less accurate than SHAP.
+○ LIME outputs results faster than SHAP.
+LIME supports fewer types of models than SHAP.
+LIME supports more programming languages than SHAP.

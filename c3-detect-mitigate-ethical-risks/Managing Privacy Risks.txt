@@ -1,0 +1,69 @@
+Q: Which of the following best describes a marketing persona?
+
+○ An individual who assists with the activity of marketing
+The emotional impression that a customer has about a product or category of goods
+A character that encapsulates a brand’s personality
+A description of a type of character based upon demographics, habits, and interests
+
+Q: Which of the following best describes the use case for zero-knowledge protocols (ZKPs)?
+
+○ Proving that something exists, but not the specifics
+Being made aware of when the battery in a product is past its zero point
+Handling divide-by-zero errors in computing software
+Choosing what to do when you have zero knowledge of a subject
+
+Q: Which of the following elements constitute PII? (Select two.)
+
+○ Passport numbers
+○ Telephone numbers
+Device IDs
+Cookies and tokens
+
+Q: Which of the following elements should be communicated with end users when negotiating ethical access to a user’s data? (Select two.)
+
+○ The intention behind a certain activity or request
+○ A request for consent to perform an action
+The monetary value of that data
+An offer of money or other incentives to relinquish user’s rights
+
+Q: Which of the following describes the technique of homomorphic encryption?
+
+○ A method of performing operations on encrypted data.
+A method of cryptography that hides data inside other data.
+A method of swapping public and private keys between hosts.
+A method of mitigating biased algorithms through enhanced secrecy.
+
+Q: Which of the following describe aspects of secondary data usage that might increase ethical risks? (Select two.)
+
+○ Additional organizations and processors may now have access to the data
+○ Data applied to secondary purposes may expose private aspects or diminish personal dignity
+Encryption of data makes it harder to process
+Secondary data may be more expensive
+
+Q: Which of the following provide a user with more meaningful choices regarding how their data is being used? (Select two.)
+
+○ Opt-out/opt-in mechanisms
+○ Granular or modular control over data usage
+The format that the data is stored in
+Whether the data is used by a person of a certain gender
+
+Q: Which of the following refer to legal regulations or industry frameworks for protecting data? (Select two.)
+
+○ NIST Privacy Framework
+○ HIPAA
+ISO 9000
+CE mark
+
+Q: Which of the following are prerequisites for high-level digital security and trust mechanisms? (Select two.)
+
+○ Authentication
+○ Authorization
+Reputation
+Kindness
+
+Q: Which of the following describe a process of cross-correlation of data? (Select two.)
+
+○ Discovering new information via inference
+○ Comparing multiple data points or sets
+Analysing an individual's emotional stimulus and response patterns
+Comparing people of different demographic groups
