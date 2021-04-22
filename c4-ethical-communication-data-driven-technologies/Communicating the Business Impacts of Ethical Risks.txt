@@ -1,0 +1,69 @@
+Q: Why is it important to categorize ethical risks into different types? (Select two.)
+
+○ It makes it easier for us to identify and manage different types of risks.
+○ It helps us understand the many complexities involved in different types of ethical risks. 
+It ensures that customers and other external stakeholders know that we take ethical risks seriously.
+It helps us consider risk mitigation in terms of universal tactics that apply to all potential kinds of ethical risk.
+
+Q: Which of the following communication tactics help uphold transparency and explainability from the customer perspective? (Select two.)
+
+○ Providing information about data-driven systems in simple, easy-to-understand terms.
+○ Providing prompt responses to customer questions about the decisions made by data-driven systems.
+Providing in-depth white papers on the algorithms that underlie data-driven systems.
+Providing guidelines for how customers can keep their private data secure when using data-driven systems.
+
+Q: Why is it important to engage stakeholders at the beginning of the ethical risk management process?
+
+○ It demonstrates that the organization is committed to accountability and transparency in their data-driven systems.
+It lets stakeholders know that the organization cannot address ethical risks in data-driven systems without input from stakeholders first.
+It helps the organization avoid legal trouble during the development and deployment of data-driven systems.
+It proves that you are completely equipped to address any ethical risks in your data-driven systems.
+
+Q: Which of the following situations would most likely require communication to external stakeholders? (Select two.)
+
+○ The organization’s data-driven service will receive an update that enhances its accuracy.
+○ The organization’s AI product has a defect and needs to be recalled.
+The organization plans to adopt a new ethical framework to support the implementation of an AI system.
+The organization’s change management strategy has been modified.
+
+Q: Which of the following are useful strategies for communicating ethical risks to the organization? (Select two.)
+
+○ Disseminate information in multiple formats
+○ Communicate information in real time
+Communicate information through a single voice
+Provide information only when solicited
+
+Q: Which of the following are useful strategies for communicating ethical risks to society? (Select two.)
+
+○ Be culturally sensitive and culturally aware during communication
+○ Ensure communication policies are diverse, inclusive, and equitable
+Provide access to information on a need-to-know basis
+Limit the flow of information to one direction: organization to public
+
+Q: When conducting a business impact assessment (BIA), why is it important to interview or survey personnel at the ground level, not just managers and other higher-ups?
+
+○ They may have more institutional knowledge about a subject than managers.
+They are more likely to be candid and give forthright responses.
+They are more likely to find the time to complete an interview or survey.
+They have a greater obligation to answer questions.
+
+Q: As a result of failing to communicate ethical risks, the organization’s reputation suffers and customers are less confident in the organization. What direct impact can this have?
+
+○ The products or services the organization creates will have less of an impact in the marketplace.
+Customers will find it more difficult to use your products and services.
+The organization will be more likely to draw the attention of legal and regulatory auditors.
+Morale amongst internal personnel will drop, as will productivity.
+
+Q: Which of the following should be conducted as part of a risk communication strategy in order to ensure the organization is upholding its regulatory obligations?
+
+○ Compliance audit
+Ethical risk review
+Public relations campaign
+Business impact assessment (BIA)
+
+Q: Which of the following are useful strategies for communicating ethical risks to the individual? (Select two.)
+
+○ Ensure individuals feel that they have input into the process
+○ Communicate to individuals proactively rather than reactively
+Inform individuals of how they are obligated to mitigate risks to themselves
+Ensure individuals understand the specific details of each risk they are affected by

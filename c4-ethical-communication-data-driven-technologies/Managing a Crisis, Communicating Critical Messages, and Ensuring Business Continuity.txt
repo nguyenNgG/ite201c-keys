@@ -1,0 +1,69 @@
+Q: How does the low likelihood of a crisis relate to its potential impact?
+
+○ A crisis with low likelihood tends to have high impact.
+A crisis with low likelihood tends to have moderate impact.
+A crisis with low likelihood tends to have little to no effect on its impact.
+A crisis with low likelihood tends to have low impact.
+
+Q: Which of the following is the most important idea that a crisis communication program should manage?
+
+○ The public’s perception of a crisis
+The individual details of a crisis
+Internal stakeholder consensus about how to approach a crisis
+The real-world effects of a crisis
+
+Q: Which of the following are important to provide to a crisis communication team? (Select two.)
+
+○ Clear direction on the roles and responsibilities of team members
+○ Access to adequate resources
+The ability to work independently of the crisis management team
+Permission to tell the public what they want to hear
+
+Q: Which of the following are desired qualities when choosing a spokesperson for your organization? (Select two.)
+
+○ Patient when addressing tough questions or concerns
+○ Articulate when communicating important details
+Defensive when challenged with difficult situations
+Lighthearted when dealing with serious topics
+
+Q: The organization needs to ask itself about any quality control issues it may be having. Which of the following processes is most suitable for asking and answering that question?
+
+○ Vulnerability audit
+Business impact assessment
+Business continuity plan
+Lessons learned report
+
+Q: Which of the following practices can help an organization prepare to uphold business continuity in the event of a crisis? (Select two.)
+
+○ Performing a business impact assessment (BIA)
+○ Rehearsing business continuity tasks
+Evaluating the effects that the crisis has on the business
+Informing external stakeholders of suspected incidents
+
+Q: How can you leverage emerging technologies like AI in disaster recovery plans (DRP)?
+
+○ By using data-driven techniques to inform the strategies behind the DRP.
+By using AI decision-making systems to decide whether or not a DRP is necessary for your organization.
+By using deep learning techniques to bolster the organization’s defense against disasters.
+By using natural language processing (NLP) techniques to ensure the DRP document is understandable and free of typographic errors.
+
+Q: Which of the following is the first step in developing an incident response plan (IRP)?
+
+○ Identifying risks
+Forming a team
+Taking feedback from customers
+Consulting internal stakeholders
+
+Q: Which of the following activities are important to conduct in a post-crisis phase? (Select two.)
+
+○ Communicating information about the crisis with stakeholders
+○ Discussing lessons learned during the crisis
+Performing a vulnerability audit of all affected systems
+Restructuring the response team for future crises
+
+Q: Why is it important not to review a crisis too soon after it has concluded? (Select two.)
+
+○ By reviewing a crisis too soon, you may not have collected all of the useful details.
+○ By reviewing a crisis too soon, you can exasperate the people involved.
+By reviewing a crisis too soon, you run the risk of violating compliance requirements.
+By reviewing a crisis too soon, you can unknowingly extend the effects of that crisis.
