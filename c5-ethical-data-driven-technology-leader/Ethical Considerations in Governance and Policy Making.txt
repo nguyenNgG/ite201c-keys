@@ -1,0 +1,69 @@
+Q: Why is corporate governance important when thinking about ethical considerations for the development of data-driven technologies? 
+
+○ It provides an accountability framework for stakeholders of the organization to prevent ethical violations.
+It helps the organization showcase to its customers that it has ethical guidelines.
+It binds the employees in a moral code that limits the kind of actions they can engage in. 
+It helps the organization have a document to point towards in case an ethical violation occurs.
+
+Q: Which of the following would be the most beneficial stage to hold ethical risk reviews for a new project that your team is undertaking?
+
+○ Conception
+Design
+Development
+Deployment
+
+Q: Which of the following is NOT a common consideration when looking at the major ethical frameworks?
+
+○ Humanity
+Security
+Privacy
+Transparency
+
+Q: Which of the following is an ethical benefit of incorporating fair competition considerations in a data-driven technology ecosystem?
+
+○ Encouraging product or service differentiation 
+Lowering product and service costs for the users
+Accelerating investments in research and development
+Consolidating products and services under a single organization 
+
+Q: Which of the following principle sets are important for the creation of open data that is widely utilized?
+
+○ FAIR
+ISO 27001
+FATE
+ISO 27017
+
+Q: Which of the following is a misuse of intellectual property (IP) when it comes to ethical accountability for an organization?
+
+○ Using IP as a defensive mechanism to eschew transparency requirements. 
+Collecting returns on investments made in research and development. 
+Enhancing the security posture of a product or service. 
+Filing a patent for the IP that makes non-obvious information known to the public. 
+
+Q: Which of the following is an ethical risk if there is non-compliance with legal and regulatory requirements within a jurisdiction ? (Select two).
+
+○ Lack of transparency
+Loss of profits
+○ User discrimination 
+Reputational harm 
+
+Q: Which of the following best explains why there is an emphasis on including human rights in the major ethical frameworks? 
+
+○ They are universal and provide scaffolding for all other ethical considerations.
+They allow an organization to deliver its products and services in a larger number of markets.
+They help to satisfy legal and regulatory requirements and make the product compliant in the local jurisdiction.
+They help to provide an anthropocentric frame for the ethical considerations. 
+
+Q: Why are environmental concerns important to consider in the ethical development of data-driven technologies?
+
+○ Data-driven technologies can cause secondary, indirect, or cumulative effects on the environment that might impact people in the long term.
+Data-driven technologies directly impact the environment through pollution.
+Data-driven technologies directly impact living things via displacement.
+Data-driven technologies directly impact the environment through the invasive mining of resources to create the technologies.
+
+Q: Which of the following presents the most important argument for why we need to consider the impact of AI on labor in the design, development, and deployment of data-driven technology? 
+
+○ There might be potential labor rights and human rights violations. 
+There is still a need for human workers in human-in-the-loop mechanisms.
+There may be an impact on worker productivity if they are not included in all phases.
+The organization would like to avoid having to deal with union concerns.
