@@ -1,9 +1,9 @@
 Q: Which of the following best describes a marketing persona?
 
-○ An individual who assists with the activity of marketing
+○ A description of a type of character based upon demographics, habits, and interests
+An individual who assists with the activity of marketing
 The emotional impression that a customer has about a product or category of goods
 A character that encapsulates a brand’s personality
-A description of a type of character based upon demographics, habits, and interests
 
 Q: Which of the following best describes the use case for zero-knowledge protocols (ZKPs)?
 
